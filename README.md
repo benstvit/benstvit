@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benstvit
 - 👀 I’m interested in music, surf, books, photography
-- 🌱 I’m currently learning web development @ Le Wagon
+- 🌱 I am a fullstack developer freshly graduated from Le Wagon
 - 📫 How to reach me : ben.saintviteux@gmail.com
 
 <!---
