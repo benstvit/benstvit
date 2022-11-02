@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benstvit
+- 🌱 I am a fullstack developer with front-end affinities 💄
 - 👀 I’m interested in music, surf, books, photography
-- 🌱 I am a fullstack developer freshly graduated from Le Wagon
 - 📫 How to reach me : ben.saintviteux@gmail.com
 
 <!---
