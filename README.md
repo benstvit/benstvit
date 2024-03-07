@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benstvit
 - 🌱 I am a fullstack developer with front-end affinities 💄
 - 👀 I’m interested in music, surf, books, photography
-- 📫 How to reach me : ben.saintviteux@gmail.com
+- 📫 How to reach me : ben.saintviteux@gmail.com || captainfilmsjournal@gmail.com
 
 <!---
 benstvit/benstvit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
